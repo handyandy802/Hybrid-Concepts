@@ -6,6 +6,6 @@ Being bit of a rebel, then and now, I attempted to write such an application.  M
 
 The computer I used in development was and is a Laser 128EX with 4 Mhz WDC 65c802 installed.  I also recently acquired an Apple IIGS ROM 3 computer as well and bought a couple of Model 4 Raspberry PIs.  One of the RPis is set up as an Apple IIGS ROM 3 running at 25 Mhz with 16 Megabytes of RAM.
 
-That being said, the WDC 65c802 was for me a good "entry level" cpu for 65816 native mode programming.  It was frustrating dealing with emulation mode code in the ROM but not that much of a road block.  It was nice being able modify native mode vectors by switching in RAM (Thanks WOZ) in the upper 48K, and having a 16 bit stack pointer.  
+That being said, the WDC 65c802 was for me a good "entry level" cpu for 65816 native mode programming.  It was frustrating dealing with emulation mode code in the ROM but not that much of a road block.  It was nice being able to modify native mode vectors by switching in RAM (Thanks WOZ) in the upper 48K, and having a 16 bit stack pointer.  
 
 
